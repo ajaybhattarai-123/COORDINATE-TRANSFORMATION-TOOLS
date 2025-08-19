@@ -6,4 +6,4 @@ Sample inputs and outputs are provided in the GitHub folder, with detailed usage
 Users are encouraged to test and adapt the code
 ### Created and tested by Er. Ajay Bhattarai ###
 
-Note: Check the I/O files for the format
+<i>Note: Check the I/O files for the format </i>
